@@ -12,6 +12,9 @@ collections:
       - { name: Title }
 
 collections:
+  authors:
+  
+collections:
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
