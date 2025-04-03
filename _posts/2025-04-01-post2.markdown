@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Post 2"
-date:   2025-04-01 23:34:00 -0400
-categories: jekyll update
-author: jill
----
-
-This is a new blog post
